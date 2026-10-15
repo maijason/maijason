@@ -4,6 +4,8 @@ CS student at **Northeastern University** in Boston. I build LLM-powered develop
 
 Previously interned as a software engineer at **Amazon**, **State Street**, **Fidelity Investments**, and **Analog Devices**.
 
+🔨 Currently building **[JobTrail](https://github.com/maijason/jobtrail)**, an open-source job tracker that explains why you match a role.
+
 ### 🛠️ Projects
 
 | Project | What it is | Stack |
